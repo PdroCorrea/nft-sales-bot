@@ -5,8 +5,14 @@ The code here isn't great and is primarily meant for illustrating concepts. Plea
 
 # Usage
 Once you've got a project address and a Discord webhook URL, simply run:
+#ffb
+`PROJECT_ADDRESS=BoouTDH2e5pjf4pSnpK1UyxCpLuoynF6556QoHR6ckXT DISCORD_URL=https://discord.com/api/webhooks/936644671524990997/cxvFu1w4WYPHh2fjQnw_hTW0OMK8nTnABYHQJRg7RfQNzleXR-da-Kl8zTzk69249wqH node sales_bot.js`
 
-`PROJECT_ADDRESS=insert-address DISCORD_URL=insert-webhook node sales_bot.js`
+#gorilas local
+`PROJECT_ADDRESS=5ZxFU9ykuSvzjxHUK8sQPmxPGWwNxncT4vcfa2AeapaR DISCORD_URL=https://discord.com/api/webhooks/933467569711616033/Hfa2HUzlPVEkyR4BbUk8zUQZelOTq_q6blOt-BX4paORszoA4HDvP1BDccoH_HOL3ter node sales_bot.js`
+https://discord.com/api/webhooks/933467569711616033/Hfa2HUzlPVEkyR4BbUk8zUQZelOTq_q6blOt-BX4paORszoA4HDvP1BDccoH_HOL3ter
+#nuts
+`PROJECT_ADDRESS=2HMJeAuRAsRciR1Y77oPi5bqh7LeB26yZAigWbJmCT2m DISCORD_URL=https://discord.com/api/webhooks/933461419461050419/DSyOQpwgAlzBxxywmZYC7T8s9ZYtszs0u4t86eqSuFkbahoQpv8Aq6UZjDyrAfB4ZF1K node sales_bot.js`
 
 # Caveats
 The way the bot is currently set up, it fetches the last 1000 signatures by default. This is on purpose - as I like backfilling historic sales when I add a bot to Discord.
