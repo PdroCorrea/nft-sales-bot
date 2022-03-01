@@ -1,0 +1,912 @@
+[
+  {
+    "traitType": "Background",
+    "value": "Purple cheetah banana",
+    "weight":112.6741573
+  },
+  {
+    "traitType": "Background",
+    "value": "Army",
+    "weight":98.31372549
+  },
+  {
+    "traitType": "Background",
+    "value": "Purple banana",
+    "weight":96.42307692
+  },
+  {
+    "traitType": "Background",
+    "value": "Rainbow swirl",
+    "weight":94.60377358
+  },
+  {
+    "traitType": "Background",
+    "value": "Orange zebra",
+    "weight":54.20540541
+  },
+  {
+    "traitType": "Background",
+    "value": "Pink cheetah",
+    "weight":53.62566845
+  },
+  {
+    "traitType": "Background",
+    "value": "",
+    "weight":52.77894737
+  },
+  {
+    "traitType": "Background",
+    "value": "Pink tiger",
+    "weight":51.42564103
+  },
+  {
+    "traitType": "Background",
+    "value": "Peppermint",
+    "weight":50.3919598
+  },
+  {
+    "traitType": "Background",
+    "value": "Checker",
+    "weight":49.39901478
+  },
+  {
+    "traitType": "Background",
+    "value": "Yellow swirl",
+    "weight":47.07981221
+  },
+  {
+    "traitType": "Background",
+    "value": "Orange tiger",
+    "weight":46.21198157
+  },
+  {
+    "traitType": "Background",
+    "value": "Graffiti",
+    "weight":27.17615176
+  },
+  {
+    "traitType": "Background",
+    "value": "Green cheetah",
+    "weight":25.32323232
+  },
+  {
+    "traitType": "Background",
+    "value": "Drip",
+    "weight":24.22222222
+  },
+  {
+    "traitType": "Background",
+    "value": "Blue paint",
+    "weight":20.59137577
+  },
+  {
+    "traitType": "Background",
+    "value": "Blood splat white",
+    "weight":20.21774194
+  },
+  {
+    "traitType": "Background",
+    "value": "Blood splat black",
+    "weight":19.50972763
+  },
+  {
+    "traitType": "Background",
+    "value": "Purple light",
+    "weight":19.39651838
+  },
+  {
+    "traitType": "Background",
+    "value": "Blood blot",
+    "weight":18.50184502
+  },
+  {
+    "traitType": "Background",
+    "value": "Dark red",
+    "weight":14.5755814
+  },
+  {
+    "traitType": "Background",
+    "value": "Blue bg",
+    "weight":12.3649815
+  },
+  {
+    "traitType": "Background",
+    "value": "Green",
+    "weight":12.18469016
+  },
+  {
+    "traitType": "Background",
+    "value": "Midnite blue",
+    "weight":10.25357873
+  },
+  {
+    "traitType": "Background",
+    "value": "Neon orange",
+    "weight":10.00798403
+  },
+  {
+    "traitType": "Color",
+    "value": "Purple",
+    "weight":100.28
+  },
+  {
+    "traitType": "Color",
+    "value": "Pink",
+    "weight":98.31372549
+  },
+  {
+    "traitType": "Color",
+    "value": "Blue",
+    "weight":10.66808511
+  },
+  {
+    "traitType": "Color",
+    "value": "White",
+    "weight":10.40248963
+  },
+  {
+    "traitType": "Color",
+    "value": "Red",
+    "weight":9.773879142
+  },
+  {
+    "traitType": "Color",
+    "value": "Green",
+    "weight":9.55047619
+  },
+  {
+    "traitType": "Color",
+    "value": "Black",
+    "weight":1.715654405
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Purple kush iconic",
+    "weight":626.75
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Sour diesel iconic",
+    "weight":401.12
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Alien sighting iconic",
+    "weight":385.6923077
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Solana iconic",
+    "weight":323.483871
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Alien abduction iconic",
+    "weight":271.027027
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Chinchilla",
+    "weight":76.54961832
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Gold suspenders bowtie",
+    "weight":53.62566845
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Blue pinstripe suit",
+    "weight":53.05820106
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Blue gatsby suit",
+    "weight":48.44444444
+  },
+  {
+    "traitType": "Clothing",
+    "value": "White mink",
+    "weight":47.52606635
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Black shirt red suspenders",
+    "weight":46.64186047
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Leather jacket",
+    "weight":42.67234043
+  },
+  {
+    "traitType": "Clothing",
+    "value": "White hoodie",
+    "weight":42.49152542
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Butler dress shirt",
+    "weight":42.13445378
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Black shearling",
+    "weight":40.59919028
+  },
+  {
+    "traitType": "Clothing",
+    "value": "White shirt black suspenders",
+    "weight":39.3254902
+  },
+  {
+    "traitType": "Clothing",
+    "value": "White pinstripe suit",
+    "weight":36.33333333
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Army vest",
+    "weight":35.43462898
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Brown mink",
+    "weight":33.99322034
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Red pinstripe suit",
+    "weight":32.77124183
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Green pinstripe suit",
+    "weight":30.57317073
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Purple hoodie",
+    "weight":29.93432836
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Red hoodie",
+    "weight":29.2361516
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Green hoodie",
+    "weight":27.54945055
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Black pinstripe suit",
+    "weight":25.9121447
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Black hoodie",
+    "weight":25.71282051
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Grey pinstripe suit",
+    "weight":25.71282051
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Black tuxedo",
+    "weight":24.94527363
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Red vest",
+    "weight":22.23503326
+  },
+  {
+    "traitType": "Clothing",
+    "value": "Blue tank top",
+    "weight":16.82550336
+  },
+  {
+    "traitType": "Clothing",
+    "value": "White tank top",
+    "weight":14.10407876
+  },
+  {
+    "traitType": "Clothing",
+    "value": "None",
+    "weight":5.954869359
+  },
+  {
+    "traitType": "Chain",
+    "value": "Gorillasace chain",
+    "weight":97.3592233
+  },
+  {
+    "traitType": "Chain",
+    "value": "Diamond cuban link",
+    "weight":56.02234637
+  },
+  {
+    "traitType": "Chain",
+    "value": "Braided gold chain",
+    "weight":41.958159
+  },
+  {
+    "traitType": "Chain",
+    "value": "Cuban link",
+    "weight":26.32020997
+  },
+  {
+    "traitType": "Chain",
+    "value": "Thin gold chain",
+    "weight":2.725
+  },
+  {
+    "traitType": "Chain",
+    "value": "None",
+    "weight":1.841689624
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Purple diamond grill",
+    "weight":111.4222222
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Rainbow grill",
+    "weight":104.4583333
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Diamonds & gems grill",
+    "weight":55.0989011
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Gold & gems grill",
+    "weight":51.16326531
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Blunt",
+    "weight":23.10599078
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Gold grill",
+    "weight":20.21774194
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Top gold grill",
+    "weight":10.75965665
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Bottom gold grill",
+    "weight":9.802541544
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Cigar",
+    "weight":7.022408964
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Cigarette",
+    "weight":6.98815331
+  },
+  {
+    "traitType": "Mouth",
+    "value": "Gold tooth",
+    "weight":6.567125082
+  },
+  {
+    "traitType": "Mouth",
+    "value": "None",
+    "weight":4.583180987
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Umbrella",
+    "weight":125.35
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Grenade launcher",
+    "weight":105.5578947
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Rpg",
+    "weight":103.3814433
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Silver mic",
+    "weight":100.28
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Caine",
+    "weight":90.34234234
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Banana",
+    "weight":84.98305085
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Skull basher",
+    "weight":64.28205128
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Bloody spiked bat",
+    "weight":58.64327485
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Samurai sword",
+    "weight":54.20540541
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Silenced pistol",
+    "weight":51.95854922
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Scoped deserteagle",
+    "weight":50.64646465
+  },
+  {
+    "traitType": "Weapon",
+    "value": "50 cal sniper",
+    "weight":50.3919598
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Dragunov sniper",
+    "weight":46.21198157
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Tommy gun",
+    "weight":44.96860987
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Western revolver",
+    "weight":44.17621145
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Viking axe",
+    "weight":40.59919028
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Spiked bat",
+    "weight":38.12927757
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Scoped pistol",
+    "weight":33.65100671
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Black mic",
+    "weight":32.87868852
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Medieval mace",
+    "weight":32.45307443
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Sniper rifle",
+    "weight":31.53459119
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Ak74u",
+    "weight":30.48024316
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Sawed off",
+    "weight":30.29607251
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Axe",
+    "weight":29.75667656
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Sword",
+    "weight":28.65142857
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Smg",
+    "weight":25.38734177
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Ak47 bayonet",
+    "weight":24.39902676
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Tec9",
+    "weight":24.22222222
+  },
+  {
+    "traitType": "Weapon",
+    "value": "M1a4",
+    "weight":23.87619048
+  },
+  {
+    "traitType": "Weapon",
+    "value": "44 magnum",
+    "weight":23.48477752
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Uzi",
+    "weight":23.42990654
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Machete",
+    "weight":23.21296296
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Dagger",
+    "weight":18.4
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Ak47",
+    "weight":18.26593807
+  },
+  {
+    "traitType": "Weapon",
+    "value": "Butterfly knife",
+    "weight":18.26593807
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Pink diamond eyes",
+    "weight":1002.8
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Pink laser",
+    "weight":92.85185185
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Green diamond eyes",
+    "weight":50.64646465
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Gooche green glasses",
+    "weight":43.79039301
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Gooche black red green glasses",
+    "weight":40.93061224
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Gorillasace red glasses",
+    "weight":39.95219124
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Gorillasace gold glasses",
+    "weight":33.76430976
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Blue diamond eyes",
+    "weight":33.76430976
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Green laser",
+    "weight":33.65100671
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Monkley orange glasses",
+    "weight":31.14285714
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Monkley blue glasses",
+    "weight":30.57317073
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Gorillasace transparent glasses",
+    "weight":27.32425068
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Purple diamond eyes",
+    "weight":25.58163265
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Red laser",
+    "weight":25.07
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Blue laser",
+    "weight":23.70685579
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Gorillasace black glasses",
+    "weight":23.5399061
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Gorillasace tinted glasses",
+    "weight":19.8968254
+  },
+  {
+    "traitType": "Eyes",
+    "value": "Red eyes",
+    "weight":9.707647628
+  },
+  {
+    "traitType": "Eyes",
+    "value": "None",
+    "weight":2.571941523
+  },
+  {
+    "traitType": "Hat",
+    "value": "Viking helmet skull",
+    "weight":133.7066667
+  },
+  {
+    "traitType": "Hat",
+    "value": "Smokey bear",
+    "weight":128.5641026
+  },
+  {
+    "traitType": "Hat",
+    "value": "Santa hat",
+    "weight":123.8024691
+  },
+  {
+    "traitType": "Hat",
+    "value": "White fur beret",
+    "weight":122.2926829
+  },
+  {
+    "traitType": "Hat",
+    "value": "King crown",
+    "weight":117.9764706
+  },
+  {
+    "traitType": "Hat",
+    "value": "Gatsby hat",
+    "weight":116.6046512
+  },
+  {
+    "traitType": "Hat",
+    "value": "Rainbow liberty spikes",
+    "weight":111.4222222
+  },
+  {
+    "traitType": "Hat",
+    "value": "Army helmet",
+    "weight":111.4222222
+  },
+  {
+    "traitType": "Hat",
+    "value": "German helmet",
+    "weight":102.3265306
+  },
+  {
+    "traitType": "Hat",
+    "value": "White fedora black band",
+    "weight":65.97368421
+  },
+  {
+    "traitType": "Hat",
+    "value": "Black fedora with feather",
+    "weight":64.69677419
+  },
+  {
+    "traitType": "Hat",
+    "value": "Army buckethat",
+    "weight":61.52147239
+  },
+  {
+    "traitType": "Hat",
+    "value": "Grey liberty spikes",
+    "weight":60.77575758
+  },
+  {
+    "traitType": "Hat",
+    "value": "Blue cap backwards lean",
+    "weight":60.77575758
+  },
+  {
+    "traitType": "Hat",
+    "value": "Bandana",
+    "weight":60.04790419
+  },
+  {
+    "traitType": "Hat",
+    "value": "Red fur bucket",
+    "weight":59.69047619
+  },
+  {
+    "traitType": "Hat",
+    "value": "White fur bucket",
+    "weight":59.69047619
+  },
+  {
+    "traitType": "Hat",
+    "value": "Black fur bucket",
+    "weight":58.30232558
+  },
+  {
+    "traitType": "Hat",
+    "value": "Navy hat",
+    "weight":58.30232558
+  },
+  {
+    "traitType": "Hat",
+    "value": "Pink fur bucket",
+    "weight":57.96531792
+  },
+  {
+    "traitType": "Hat",
+    "value": "Chrome dome",
+    "weight":57.96531792
+  },
+  {
+    "traitType": "Hat",
+    "value": "Viking helmet black",
+    "weight":56.97727273
+  },
+  {
+    "traitType": "Hat",
+    "value": "Crown prince",
+    "weight":56.65536723
+  },
+  {
+    "traitType": "Hat",
+    "value": "Rainbow mohawk",
+    "weight":50.64646465
+  },
+  {
+    "traitType": "Hat",
+    "value": "Blue baseball cap backwards",
+    "weight":44.37168142
+  },
+  {
+    "traitType": "Hat",
+    "value": "Fur winter cap",
+    "weight":43.03862661
+  },
+  {
+    "traitType": "Hat",
+    "value": "Crown queen",
+    "weight":42.85470085
+  },
+  {
+    "traitType": "Hat",
+    "value": "Bleached liberty spikes",
+    "weight":40.59919028
+  },
+  {
+    "traitType": "Hat",
+    "value": "Army cap",
+    "weight":40.112
+  },
+  {
+    "traitType": "Hat",
+    "value": "Viking helmet",
+    "weight":38.27480916
+  },
+  {
+    "traitType": "Hat",
+    "value": "Devil horn",
+    "weight":37.55805243
+  },
+  {
+    "traitType": "Hat",
+    "value": "Spiked helmet",
+    "weight":34.81944444
+  },
+  {
+    "traitType": "Hat",
+    "value": "Scottish hat",
+    "weight":33.09570957
+  },
+  {
+    "traitType": "Hat",
+    "value": "Bleached mohawk",
+    "weight":29.66863905
+  },
+  {
+    "traitType": "Hat",
+    "value": "Golfers hat",
+    "weight":29.49411765
+  },
+  {
+    "traitType": "Hat",
+    "value": "Purple baseball cap",
+    "weight":28.81609195
+  },
+  {
+    "traitType": "Hat",
+    "value": "Black fedora white band",
+    "weight":
+  },
+  {
+    "traitType": "Hat",
+    "value": "Black fedora red band",
+    "weight":28.08963585
+  },
+  {
+    "traitType": "Hat",
+    "value": "Black flatcap",
+    "weight":28.08963585
+  },
+  {
+    "traitType": "Hat",
+    "value": "Red baseball cap",
+    "weight":27.4739726
+  },
+  {
+    "traitType": "Hat",
+    "value": "None",
+    "weight":5.134664619
+  },
+  {
+    "traitType": "Mask",
+    "value": "Ski mask",
+    "weight":911.6363636
+  },
+  {
+    "traitType": "Mask",
+    "value": "Jason mask",
+    "weight":771.3846154
+  },
+  {
+    "traitType": "Mask",
+    "value": "None",
+    "weight":1.00249925
+  },
+  {
+    "traitType": "Monkey",
+    "value": "Monkey",
+    "weight":92.85185185
+  },
+  {
+    "traitType": "Monkey",
+    "value": "None",
+    "weight":1.010989011
+  }
+]
